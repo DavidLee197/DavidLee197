@@ -8,7 +8,7 @@
 <div>
   <!--Body-->
   
-  ## A Student of Youngnam Univ.
+  ## Student of Youngnam Univ.
   1st grade
   
   
