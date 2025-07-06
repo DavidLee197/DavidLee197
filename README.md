@@ -8,9 +8,6 @@
 <div>
   <!--Body-->
   
-  ## Student of Youngnam Univ.
-  1st grade
-  
   
   ## 🧱 Tech Stack
   ### Language
