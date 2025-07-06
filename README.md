@@ -8,10 +8,8 @@
 <div>
   <!--Body-->
   
-  ## Student
+  ## A Student of Youngnam Univ. in South Korea
   
-  <br/>
-  <br/>
   
   ## 🧱 Tech Stack
   ### Language
